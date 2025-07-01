@@ -26,4 +26,4 @@ A MINIMALIST WEATHER FORECAST APPLICATION WITH A FOCUS ON CLEAN DESIGN AND REAL-
 
 ### LIVE
 
-[VIEW THE DEPLOYED SITE](https://your-netlify-site-name.netlify.app)
+[VIEW THE DEPLOYED SITE](https://xldplx.github.io/climaform/)
